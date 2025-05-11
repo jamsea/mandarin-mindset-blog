@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/CVS": true,
+        "**/.ruby-lsp": true,
+        "**/.bundles": true,
+        "**/.cache": true,
+        "**/coverage": true,
+        "**/dist": false,
+        "**/es": true,
+        "**/jspm_packages": true,
+        "**/lib": false,
+        "**/umd": false,
+        "**/.retool_types/**": true,
+        "**/*tsconfig.json": true,
+        ".cache": true,
+        "retool.config.json": true
+    }
+}
